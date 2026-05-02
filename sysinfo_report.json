@@ -1,0 +1,3853 @@
+{
+  "os": {
+    "system": "Windows",
+    "node_name": "RISHIKESH",
+    "release": "11",
+    "version": "10.0.26200",
+    "architecture": "AMD64",
+    "bits": "64bit",
+    "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+    "registry": {
+      "product_name": "Windows 10 Home Single Language",
+      "display_version": "25H2",
+      "current_build": "26200",
+      "update_build_revision": 8246,
+      "build_lab_ex": "26100.1.amd64fre.ge_release.240331-1435",
+      "edition": "CoreSingleLanguage"
+    }
+  },
+  "installed_apps": [
+    {
+      "name": "Acer Configuration Manager",
+      "version": "2.9.25180",
+      "publisher": "Acer",
+      "install_date": "20250717",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Acer Jumpstart",
+      "version": "3.5.22220.20",
+      "publisher": "Acer",
+      "install_date": "20241031",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "AcerSense Config",
+      "version": "5.0.2005",
+      "publisher": "ULIC Tek Inc.",
+      "install_date": "20250820",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "AcerSense Installer",
+      "version": "5.0.1223",
+      "publisher": "ULIC Tek Inc.",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "AcerSense Prerequisites",
+      "version": "5.0.1223",
+      "publisher": "ULIC Tek Inc.",
+      "install_date": "20240724",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "App Explorer",
+      "version": "0.273.4.918",
+      "publisher": "SweetLabs",
+      "install_date": "",
+      "install_location": "",
+      "source": "user"
+    },
+    {
+      "name": "Arduino IDE 2.3.7",
+      "version": "2.3.7",
+      "publisher": "Arduino SA",
+      "install_date": "",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Bonjour",
+      "version": "3.1.0.1",
+      "publisher": "Apple Inc.",
+      "install_date": "20250302",
+      "install_location": "C:\\Program Files (x86)\\Bonjour\\",
+      "source": "64bit"
+    },
+    {
+      "name": "Burp Suite Community Edition 2025.3.3",
+      "version": "2025.3.3",
+      "publisher": "PortSwigger Web Security",
+      "install_date": "",
+      "install_location": "C:\\Users\\rishi\\AppData\\Local\\Programs\\BurpSuiteCommunity",
+      "source": "user"
+    },
+    {
+      "name": "Care Center Service",
+      "version": "4.00.3054",
+      "publisher": "Acer Incorporated",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files (x86)\\Acer\\Care Center\\",
+      "source": "64bit"
+    },
+    {
+      "name": "Cisco Packet Tracer 8.2.2 64Bit",
+      "version": "8.2.2.400",
+      "publisher": "Cisco Systems, Inc.",
+      "install_date": "20241113",
+      "install_location": "C:\\Program Files\\Cisco Packet Tracer 8.2.2\\",
+      "source": "64bit"
+    },
+    {
+      "name": "cloudflared",
+      "version": "2025.4.0",
+      "publisher": "cloudflare",
+      "install_date": "20250418",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Copilot",
+      "version": "147.0.3912.60",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20260417",
+      "install_location": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application",
+      "source": "32bit"
+    },
+    {
+      "name": "Docker Desktop",
+      "version": "4.67.0",
+      "publisher": "Docker Inc.",
+      "install_date": "",
+      "install_location": "C:\\Program Files\\Docker\\Docker",
+      "source": "64bit"
+    },
+    {
+      "name": "draw.io 27.0.2",
+      "version": "27.0.2",
+      "publisher": "JGraph",
+      "install_date": "",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Figma",
+      "version": "125.1.5",
+      "publisher": "Figma, Inc.",
+      "install_date": "20260118",
+      "install_location": "C:\\Users\\rishi\\AppData\\Local\\Figma",
+      "source": "user"
+    },
+    {
+      "name": "Figma Agent",
+      "version": "125.11.6",
+      "publisher": "Figma, Inc.",
+      "install_date": "",
+      "install_location": "",
+      "source": "user"
+    },
+    {
+      "name": "Google Chrome",
+      "version": "147.0.7727.102",
+      "publisher": "Google LLC",
+      "install_date": "20260418",
+      "install_location": "C:\\Program Files\\Google\\Chrome\\Application",
+      "source": "32bit"
+    },
+    {
+      "name": "Java(TM) SE Development Kit 24.0.2 (64-bit)",
+      "version": "24.0.2.0",
+      "publisher": "Oracle Corporation",
+      "install_date": "20250912",
+      "install_location": "C:\\Program Files\\Java\\jdk-24\\",
+      "source": "64bit"
+    },
+    {
+      "name": "ManageEngine Endpoint Central \u2013 Server",
+      "version": " ",
+      "publisher": "Zoho Corporation Pvt. Ltd.",
+      "install_date": "20250211",
+      "install_location": "C:\\Program Files\\UEMS_CentralServer",
+      "source": "32bit"
+    },
+    {
+      "name": "ManageEngine UEMS - Agent",
+      "version": "11.4.2508.01.W",
+      "publisher": "Zoho Corporation Pvt. Ltd.",
+      "install_date": "20250211",
+      "install_location": "C:\\Program Files (x86)\\ManageEngine\\UEMS_Agent\\",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft .NET Host - 6.0.36 (x64)",
+      "version": "48.144.23141",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft .NET Host - 6.0.36 (x86)",
+      "version": "48.144.23141",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft .NET Host - 8.0.8 (x64)",
+      "version": "64.32.18380",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250413",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 6.0.36 (x64)",
+      "version": "48.144.23141",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 6.0.36 (x86)",
+      "version": "48.144.23141",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 8.0.8 (x64)",
+      "version": "64.32.18380",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250413",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 6.0.36 (x64)",
+      "version": "48.144.23141",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 6.0.36 (x86)",
+      "version": "48.144.23141",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 8.0.8 (x64)",
+      "version": "64.32.18380",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250413",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft 365 - en-us",
+      "version": "16.0.18526.20144",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "C:\\Program Files\\Microsoft Office",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft Edge",
+      "version": "147.0.3912.72",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20260418",
+      "install_location": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Edge WebView2 Runtime",
+      "version": "147.0.3912.72",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20260418",
+      "install_location": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft GameInput",
+      "version": "3.3.163.0",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20260320",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "version": "26.051.0316.0004",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft OneNote - en-us",
+      "version": "16.0.18526.20144",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "C:\\Program Files\\Microsoft Office",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft Update Health Tools",
+      "version": "5.72.0.0",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20241031",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+      "version": "14.44.35211.0",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532",
+      "version": "14.36.32532.0",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211",
+      "version": "14.44.35211",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20260331",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211",
+      "version": "14.44.35211",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20260331",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532",
+      "version": "14.36.32532",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250831",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532",
+      "version": "14.36.32532",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250831",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Visual Studio Code (User)",
+      "version": "1.116.0",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20260419",
+      "install_location": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\",
+      "source": "user"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)",
+      "version": "48.144.23186",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)",
+      "version": "6.0.36.34217",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x86)",
+      "version": "48.144.23186",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250417",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x86)",
+      "version": "6.0.36.34217",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.8 (x64)",
+      "version": "64.32.18376",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250413",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.8 (x64)",
+      "version": "8.0.8.33916",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Nmap 7.95",
+      "version": "7.95",
+      "publisher": "Nmap Project",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Npcap",
+      "version": "1.86",
+      "publisher": "Nmap Project",
+      "install_date": "",
+      "install_location": "C:\\Program Files\\Npcap",
+      "source": "32bit"
+    },
+    {
+      "name": "NVIDIA Backend",
+      "version": "39.5.0.0",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files (x86)\\NVIDIA Corporation\\Update Core",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Container",
+      "version": "1.37",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\NvContainer",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA FrameView SDK 1.3.8513.32290073",
+      "version": "1.3.8513.32290073",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA GeForce Experience 3.27.0.114",
+      "version": "3.27.0.114",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.GFExperience.{33834DD2-47FE-4A0B-9E27-2D099767C96E}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)",
+      "version": "7.1",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\GpxCommon.Oss.{2FC7C9E2-78B5-4B07-867A-03098BDCDF01}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Graphics Driver 552.27",
+      "version": "552.27",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20250108",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{68EC326F-6C22-4215-B7BB-6596D4448086}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Install Application",
+      "version": "2.1002.413.0",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20250108",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA LocalSystem Container",
+      "version": "1.37",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.LocalSystem.{A340A11A-E01C-497E-A064-78DCEE4B0A3C}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Message Bus for NvContainer",
+      "version": "1.34",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.MessageBus.{BF201020-91A5-4F83-BC71-E96AB27F11B7}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA NetworkService Container",
+      "version": "1.37",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.ServiceUser.{9965D473-80BF-482A-86C7-F8A33A68AB8E}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA NodeJS",
+      "version": "3.27.0.114",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files (x86)\\NVIDIA Corporation\\NvNode",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA NVAPI Monitor plugin for NvContainer",
+      "version": "1.0",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.NvapiMonitor.{86CDD67C-DC58-41C7-AAD3-64DCB547F9E0}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA NvModuleTracker",
+      "version": "6.14.25214.24630",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvModuleTracker.Driver.{D89CD2C7-24EB-4CA7-A6E8-1D60E2F50ECC}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA PhysX System Software 9.21.0713",
+      "version": "9.21.0713",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Session Container",
+      "version": "1.37",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.Session.{71BF1E35-EDA2-4F4E-B557-AF5BCE99D561}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA ShadowPlay 3.27.0.114",
+      "version": "3.27.0.114",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\ShadowPlay",
+      "source": "64bit"
+    },
+    {
+      "name": "Nvidia Share",
+      "version": "3.27.0.114",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\OSC.{E8DDC51C-F002-4355-B8D6-C387955DB2D3}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA SHIELD Streaming",
+      "version": "7.1.32193813",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\NvStreamSrv",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA SHIELD Wireless Controller Driver",
+      "version": "3.27.0.94",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\ShieldWirelessController.{91234E41-2B75-43CA-844B-EB29ACC55B0F}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Telemetry Client",
+      "version": "17.1.7.0",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\NvTelemetry",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA TelemetryApi helper for NvContainer",
+      "version": "1.37",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.ContainerTelemetryApiHelper.{36D9F2DE-55E6-4557-AC74-696652F3D16B}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA User Container",
+      "version": "1.37",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.User.{766E6EA6-BC43-46FF-9539-4AF6BB84AE3B}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Virtual Audio 4.49.0.0",
+      "version": "4.49.0.0",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\VirtualAudio.Driver.{0E943379-C459-4AD6-9947-A2C6055474C7}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Virtual Host Controller",
+      "version": "3.05.0.1",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvVHCI.{FAC1C25E-29C5-4D70-BB46-DE4BD388BEFF}",
+      "source": "64bit"
+    },
+    {
+      "name": "NVIDIA Watchdog Plugin for NvContainer",
+      "version": "1.37",
+      "publisher": "NVIDIA Corporation",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvPlugin.Watchdog.{033C89E5-A1FA-4817-B8AE-2EAE6AE43C74}",
+      "source": "64bit"
+    },
+    {
+      "name": "Office 16 Click-to-Run Extensibility Component",
+      "version": "16.0.18526.20144",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250306",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Office 16 Click-to-Run Licensing Component",
+      "version": "16.0.18526.20144",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250306",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Okta Verify",
+      "version": "6.1.1.0",
+      "publisher": "Okta, Inc.",
+      "install_date": "",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "OktaVerify-x64-6.1.1.0",
+      "version": "6.1.1.0",
+      "publisher": "Okta, Inc.",
+      "install_date": "20250831",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Oracle VirtualBox 7.1.10",
+      "version": "7.1.10",
+      "publisher": "Oracle and/or its affiliates",
+      "install_date": "20250801",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "PuTTY release 0.82 (64-bit)",
+      "version": "0.82.0.0",
+      "publisher": "Simon Tatham",
+      "install_date": "20250114",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "",
+      "install_location": "",
+      "source": "user"
+    },
+    {
+      "name": "Python 3.14.2 Add to Path (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 Core Interpreter (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 Development Libraries (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 Documentation (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 Executables (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 pip Bootstrap (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 Standard Library (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 Tcl/Tk Support (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python 3.14.2 Test Suite (64-bit)",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Python Launcher",
+      "version": "3.14.2150.0",
+      "publisher": "Python Software Foundation",
+      "install_date": "20251228",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "Respondus LockDown Browser OEM",
+      "version": "2.00.805",
+      "publisher": "Respondus",
+      "install_date": "20251022",
+      "install_location": "C:\\Program Files (x86)\\Respondus\\LockDown Browser OEM",
+      "source": "32bit"
+    },
+    {
+      "name": "SecureExamBrowser",
+      "version": "1.4.7",
+      "publisher": "Hirepro",
+      "install_date": "20250516",
+      "install_location": "",
+      "source": "32bit"
+    },
+    {
+      "name": "TP-Link Archer T2U Plus Driver",
+      "version": "2.1.0",
+      "publisher": "TP-Link",
+      "install_date": "20250213",
+      "install_location": "C:\\Program Files (x86)\\TP-Link\\TP-Link Wireless Adapter WPS Tool and Driver",
+      "source": "32bit"
+    },
+    {
+      "name": "USBPcap 1.5.4.0",
+      "version": "1.5.4.0",
+      "publisher": "Tomasz Mon",
+      "install_date": "",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "User Experience Improvement Program Service",
+      "version": "5.00.3018",
+      "publisher": "Acer Incorporated",
+      "install_date": "20240724",
+      "install_location": "C:\\Program Files\\Acer\\User Experience Improvement Program Service\\Framework\\",
+      "source": "64bit"
+    },
+    {
+      "name": "VMware Workstation",
+      "version": "17.6.4",
+      "publisher": "VMware, Inc.",
+      "install_date": "20250831",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "WebAdvisor by McAfee",
+      "version": "4.1.1.1105",
+      "publisher": "McAfee, LLC",
+      "install_date": "",
+      "install_location": "C:\\Program Files\\McAfee\\WebAdvisor",
+      "source": "32bit"
+    },
+    {
+      "name": "WebCatalog 68.6.0",
+      "version": "68.6.0",
+      "publisher": "WebCatalog, Inc.",
+      "install_date": "",
+      "install_location": "",
+      "source": "user"
+    },
+    {
+      "name": "Windows Driver Package - Silicon Laboratories Inc. (silabser) Ports  (05/23/2018 6.7.6.2130)",
+      "version": "05/23/2018 6.7.6.2130",
+      "publisher": "Silicon Laboratories Inc.",
+      "install_date": "",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "Windows Subsystem for Linux",
+      "version": "2.4.13.0",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250415",
+      "install_location": "",
+      "source": "64bit"
+    },
+    {
+      "name": "WinRAR 7.01 (64-bit)",
+      "version": "7.01.0",
+      "publisher": "win.rar GmbH",
+      "install_date": "",
+      "install_location": "C:\\Program Files\\WinRAR",
+      "source": "64bit"
+    },
+    {
+      "name": "WinSCP 6.5",
+      "version": "6.5",
+      "publisher": "Martin Prikryl",
+      "install_date": "20250504",
+      "install_location": "C:\\Users\\rishi\\AppData\\Local\\Programs\\WinSCP\\",
+      "source": "user"
+    },
+    {
+      "name": "Wireshark 4.6.4 x64",
+      "version": "4.6.4",
+      "publisher": "The Wireshark developer community, https://www.wireshark.org",
+      "install_date": "",
+      "install_location": "C:\\Program Files\\Wireshark",
+      "source": "32bit"
+    }
+  ],
+  "ps_packages": [
+    {
+      "name": "draw.io 27.0.2",
+      "version": "27.0.2",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Arduino IDE 2.3.7",
+      "version": "2.3.7",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Windows Driver Package - Silicon Laboratories Inc. (silabser) Ports  (05/23/2018 6.7.6.2130)",
+      "version": "05/23/2018 6.7.6.2130",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Cisco Packet Tracer 8.2.2 64Bit",
+      "version": "8.2.2.400",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Docker Desktop",
+      "version": "4.67.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft 365 - en-us",
+      "version": "16.0.18526.20144",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "version": "26.051.0316.0004",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft OneNote - en-us",
+      "version": "16.0.18526.20144",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "USBPcap 1.5.4.0",
+      "version": "1.5.4.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "WinRAR 7.01 (64-bit)",
+      "version": "7.01.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Office 16 Click-to-Run Extensibility Component",
+      "version": "16.0.18526.20144",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Office 16 Click-to-Run Licensing Component",
+      "version": "16.0.18526.20144",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 Standard Library (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211",
+      "version": "14.44.35211",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x86)",
+      "version": "48.144.23186",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x86)",
+      "version": "6.0.36.34217",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "SecureExamBrowser",
+      "version": "1.4.7",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 6.0.36 (x86)",
+      "version": "48.144.23141",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.8 (x64)",
+      "version": "64.32.18376",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 8.0.8 (x64)",
+      "version": "8.0.8.33916",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Python 3.14.2 Tcl/Tk Support (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "AcerSense Prerequisites",
+      "version": "5.0.1223",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 6.0.36 (x64)",
+      "version": "48.144.23141",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 pip Bootstrap (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 Development Libraries (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Host - 6.0.36 (x64)",
+      "version": "48.144.23141",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 8.0.8 (x64)",
+      "version": "64.32.18380",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Care Center Service",
+      "version": "4.0.3054",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Care Center Service",
+      "version": "4.00.3054",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "User Experience Improvement Program Service",
+      "version": "5.00.3018",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "User Experience Improvement Program Service",
+      "version": "5.0.3018",
+      "provider_name": "msi"
+    },
+    {
+      "name": "NVIDIA Graphics Driver 552.27",
+      "version": "552.27",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "NVIDIA GeForce Experience 3.27.0.114",
+      "version": "3.27.0.114",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "NVIDIA PhysX System Software 9.21.0713",
+      "version": "9.21.0713",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Bonjour",
+      "version": "3.1.0.1",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Acer Configuration Manager",
+      "version": "2.9.25180",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Host - 8.0.8 (x64)",
+      "version": "64.32.18380",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft GameInput",
+      "version": "3.3.163.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211",
+      "version": "14.44.35211",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Acer Jumpstart",
+      "version": "3.5.22220.20",
+      "provider_name": "msi"
+    },
+    {
+      "name": "cloudflared",
+      "version": "2025.4.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)",
+      "version": "48.144.23186",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)",
+      "version": "6.0.36.34217",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft .NET Host FX Resolver - 6.0.36 (x86)",
+      "version": "48.144.23141",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532",
+      "version": "14.36.32532",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 8.0.8 (x64)",
+      "version": "64.32.18380",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Oracle VirtualBox 7.1.10",
+      "version": "7.1.10",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python Launcher",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 Documentation (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 Executables (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "PuTTY release 0.82 (64-bit)",
+      "version": "0.82.0.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 Test Suite (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "OktaVerify-x64-6.1.1.0",
+      "version": "6.1.1.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 Core Interpreter (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Update Health Tools",
+      "version": "5.72.0.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Windows Subsystem for Linux",
+      "version": "2.4.13.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532",
+      "version": "14.36.32532",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Host - 6.0.36 (x86)",
+      "version": "48.144.23141",
+      "provider_name": "msi"
+    },
+    {
+      "name": "ManageEngine UEMS - Agent",
+      "version": "11.4.2508.1",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Microsoft .NET Runtime - 6.0.36 (x64)",
+      "version": "48.144.23141",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Python 3.14.2 Add to Path (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "Java(TM) SE Development Kit 24.0.2 (64-bit)",
+      "version": "24.0.2.0",
+      "provider_name": "msi"
+    },
+    {
+      "name": "VMware Workstation",
+      "version": "17.6.4",
+      "provider_name": "msi"
+    },
+    {
+      "name": "AcerSense Config",
+      "version": "5.0.2005",
+      "provider_name": "msi"
+    },
+    {
+      "name": "NVIDIA FrameView SDK 1.3.8513.32290073",
+      "version": "1.3.8513.32290073",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Burp Suite Community Edition 2025.3.3",
+      "version": "2025.3.3",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "WebCatalog 68.6.0",
+      "version": "68.6.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Figma",
+      "version": "125.1.5",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Figma Agent",
+      "version": "125.11.6",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "App Explorer",
+      "version": "0.273.4.918",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "WinSCP 6.5",
+      "version": "6.5",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Python 3.14.2 (64-bit)",
+      "version": "3.14.2150.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft Visual Studio Code (User)",
+      "version": "1.116.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Google Chrome",
+      "version": "147.0.7727.102",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Copilot",
+      "version": "147.0.3912.60",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft Edge",
+      "version": "147.0.3912.72",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Nmap 7.95",
+      "version": "7.95",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Npcap",
+      "version": "1.86",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Wireshark 4.6.4 x64",
+      "version": "4.6.4",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Respondus LockDown Browser OEM",
+      "version": "2.00.805",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "WebAdvisor by McAfee",
+      "version": "4.1.1.1105",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532",
+      "version": "14.36.32532.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Okta Verify",
+      "version": "6.1.1.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "AcerSense Installer",
+      "version": "5.0.1223",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "ManageEngine Endpoint Central - Server",
+      "version": null,
+      "provider_name": "Programs"
+    },
+    {
+      "name": "TP-Link Archer T2U Plus Driver",
+      "version": "2.1.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+      "version": "14.44.35211.0",
+      "provider_name": "Programs"
+    },
+    {
+      "name": "2026-04 Security Update (KB5083769) (26200.8246)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.140 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. SoftwareComponent Driver Update (0.464.0.0)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. SoftwareComponent Driver Update (1.0.274.0)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.449.170.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2026-04 .NET Framework Security Update (KB5082417)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NCBCSZSJRSB-SpotifyAB.SpotifyMusic",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.26030.3011) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.449.142.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.449.84.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.449.65.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.449.59.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.449.34.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2026-03 Update (KB5086672) (26200.8117)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Windows Security platform - KB5007651 (Version 10.0.29554.1001)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. Extension Driver Update (1.0.274.0)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. Extension Driver Update (0.464.0.0)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9PLJQ12FQ3CV-MicrosoftCorporationII.WinAppRuntime.Main.1.8",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.236.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.216.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Extension Driver Update (1.0.19.0)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.199.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.176.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.156.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.142.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.135.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.102.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.97.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.70.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.47.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.15.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.26020.6) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.447.14.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.736.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.729.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek Semiconductor Corp. - Net - 1030.52.731.2025",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.697.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.696.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.679.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.632.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.577.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.572.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2026-03 Security Update (KB5079473) (26200.8037)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated SoftwareComponent Driver Update (2.0.0.3034)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.548.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.533.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.529.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.481.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.228.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.190.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.188.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Windows Security platform - KB5007651 (Version 10.0.29510.1001)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.139 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2026-02 Security Update (KB5077181) (26200.7840)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9WZDNCRFJ3MB-Evernote.Evernote",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9PCFS5B6T72H-Microsoft.Paint",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.445.60.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.26010.5) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.1090.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.1047.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.953.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.907.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.873.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.798.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.789.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (1.4.12.1013)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (1.4.38.1036)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (1.4.30.1030)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (1.0.0.3020)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.776.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.721.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2026-01 Security Update (KB5074109) (26200.7623)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.717.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.716.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.714.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.633.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.25110.6) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.615.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.612.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.610.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-12 Security Update (KB5072033) (26200.7462)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (1.0.0.3014)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (1.0.1.3020)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (2.0.0.3032)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.138 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated Driver Update (1.0.0.6)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.137 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-11 Security Update (KB5068861) (26200.7171)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NFTCH6J7FHV-Microsoft.PowerAutomateDesktop",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows 11, version 25H2",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Windows Security platform - KB5007651 (Version 10.0.29429.1000)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.136 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-10 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5066835) (26100.6899)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-10 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 24H2 for x64 (KB5066131)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.37.1035",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.10.1011",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.29.1029",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9N7V66BG7XT8-Microsoft.WindowsAppRuntime.1.7",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NBLGGH4LS1F-Microsoft.StorePurchaseApp",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NBLGGH4NNS1-Microsoft.DesktopAppInstaller",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NMPJ99VJBWV-Microsoft.YourPhone",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NZBF4GT040C-Microsoft.BingSearch",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NBLGGH4R32N-Microsoft.WindowsFeedbackHub",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9MSSGKG348SP-MicrosoftWindows.Client.WebExperience",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9PC1H9VN18CM-Microsoft.StartExperiencesApp",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9WZDNCRFJ3P2-MICROSOFT.ZUNEVIDEO",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9MWPM2CQNLHN-Microsoft.GamingServices",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9MV0B5HZVK9Z-Microsoft.GamingApp",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NZKPSTSNW4P-Microsoft.XboxGamingOverlay",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NKRJ3SJ9SDG-Microsoft.WindowsAppRuntime.1.8",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9WZDNCRFJ3PT-MICROSOFT.ZUNEMUSIC",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9NHT9RB2F4HD-Microsoft.Copilot",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9MVZQVXJBQ9V-Microsoft.AV1VideoExtension",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9P1J8S7CCWWT-Clipchamp.Clipchamp",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9WZDNCRFHWD2-Microsoft.MicrosoftSolitaireCollection",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-09 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5065426) (26100.6584)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-09 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 24H2 for x64 (KB5064401)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 2.0.0.3026",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - Extension - 2.0.0.3026",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.0.1.3016",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9N3RK8ZV2ZR8-Microsoft.WidgetsPlatformRuntime",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.0.1.3014",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - Extension - 1.0.1.3016",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.25070.5) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.294.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.36.1034",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.0.18.8",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.28.1028",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-08 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5063878) (26100.4946)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.135 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Windows Security platform - KB5007651 (Version 10.0.27840.1000)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. - Extension - 0.433.0.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - Extension - 1.0.18.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-07 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5062553)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-07 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 24H2 for x64 (KB5056579)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. - SoftwareComponent - 0.433.0.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-06 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5063060)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.133 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Windows Security platform - KB5007651 (Version 10.0.27777.1008)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.429.21.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-05 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5058411)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 2.0.0.3024",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "9PB0TRCNRHFX-Microsoft.AVCEncoderVideoExtension",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.427.235.0) - Current Channel (Broad)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - Extension - 2.0.0.3024",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-04 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 24H2 for x64 (KB5054979)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-04 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5055523)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-03 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5053598)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek Semiconductor Corp. - Net - 1030.44.1014.2024",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-02 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5051987)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.0.16.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.26.1026",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.32.1030",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. - SoftwareComponent - 0.423.0.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 2.0.0.3020",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows Malicious Software Removal Tool x64 - v5.131 (KB890830)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Update for Windows Security platform - KB5007651 (Version 10.0.27703.1006)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - Extension - 1.0.16.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. - Extension - 0.423.0.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.9.1010",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-01 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5050009)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2025-01 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 24H2 for x64 (KB5049622)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "2024-12 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5048667)",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "ULIC Tek Inc. - SoftwareComponent - 0.413.0.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.31.1029",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.4.24.1024",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - Extension - 2.0.0.3020",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - SoftwareComponent - 1.0.0.3018",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - Extension - 1.0.0.3012",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek Semiconductor Corp. - Extension - 6.0.9683.1",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek Semiconductor Corp. - MEDIA - 6.0.9683.1",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek - SoftwareComponent - 1.0.760.0",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek - Extension - 9.21.3690.622",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek - AudioProcessingObject - 13.495.1189.297",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek - SoftwareComponent - 11.0.6000.37",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Realtek - SoftwareComponent - 11.0.6000.330",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Acer Incorporated - System - 1.0.0.4",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Intel Corporation - Bluetooth - 23.60.0.1",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "Windows 11, version 24H2",
+      "version": null,
+      "provider_name": "msu"
+    },
+    {
+      "name": "PSWindowsUpdate",
+      "version": "2.2.1.5",
+      "provider_name": "PowerShellGet"
+    }
+  ],
+  "network": {
+    "tcp": [
+      {
+        "local_address": "::",
+        "local_port": 21,
+        "state": 2,
+        "pid": 5288,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 80,
+        "state": 2,
+        "pid": 4,
+        "process_name": "System",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 135,
+        "state": 2,
+        "pid": 1540,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 135,
+        "state": 2,
+        "pid": 1540,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.91.1",
+        "local_port": 139,
+        "state": 2,
+        "pid": 4,
+        "process_name": "System",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.253.1",
+        "local_port": 139,
+        "state": 2,
+        "pid": 4,
+        "process_name": "System",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 139,
+        "state": 2,
+        "pid": 4,
+        "process_name": "System",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.56.1",
+        "local_port": 139,
+        "state": 2,
+        "pid": 4,
+        "process_name": "System",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 445,
+        "state": 2,
+        "pid": 4,
+        "process_name": "System",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 902,
+        "state": 2,
+        "pid": 5252,
+        "process_name": "vmware-authd",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 912,
+        "state": 2,
+        "pid": 5252,
+        "process_name": "vmware-authd",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 1547,
+        "state": 5,
+        "pid": 28504,
+        "process_name": "msedge",
+        "process_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 1547,
+        "state": 100,
+        "pid": 28504,
+        "process_name": "msedge",
+        "process_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+      },
+      {
+        "local_address": "::",
+        "local_port": 4343,
+        "state": 2,
+        "pid": 5064,
+        "process_name": "AcerCCAgent",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 4449,
+        "state": 2,
+        "pid": 5108,
+        "process_name": "AcerDIAgent",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 5040,
+        "state": 2,
+        "pid": 12324,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 5141,
+        "state": 2,
+        "pid": 5032,
+        "process_name": "AcerQAAgent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 5141,
+        "state": 5,
+        "pid": 5032,
+        "process_name": "AcerQAAgent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 5354,
+        "state": 2,
+        "pid": 5088,
+        "process_name": "mDNSResponder",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 5564,
+        "state": 2,
+        "pid": 24596,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 5564,
+        "state": 5,
+        "pid": 24596,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 6449,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 6449,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 2,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6789,
+        "state": 5,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 6791,
+        "state": 2,
+        "pid": 5280,
+        "process_name": "elastic-agent",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 7680,
+        "state": 2,
+        "pid": 7016,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 8423,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 8423,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 8428,
+        "state": 100,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 8428,
+        "state": 5,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 8429,
+        "state": 100,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 8429,
+        "state": 5,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 8769,
+        "state": 2,
+        "pid": 4,
+        "process_name": "System",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 9389,
+        "state": 100,
+        "pid": 28504,
+        "process_name": "msedge",
+        "process_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 9389,
+        "state": 5,
+        "pid": 28504,
+        "process_name": "msedge",
+        "process_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 15152,
+        "state": 2,
+        "pid": 7024,
+        "process_name": "AcerService",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 16886,
+        "state": 100,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 16886,
+        "state": 5,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 19443,
+        "state": 2,
+        "pid": 5096,
+        "process_name": "AcerEZService",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 21434,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 21434,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 24253,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 24253,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 31252,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 31252,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 31637,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 31637,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 33355,
+        "state": 100,
+        "pid": 12052,
+        "process_name": "SystemSettings",
+        "process_path": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 33357,
+        "state": 100,
+        "pid": 12052,
+        "process_name": "SystemSettings",
+        "process_path": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36102,
+        "state": 100,
+        "pid": 12260,
+        "process_name": "explorer",
+        "process_path": "C:\\WINDOWS\\Explorer.EXE"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36102,
+        "state": 5,
+        "pid": 12260,
+        "process_name": "explorer",
+        "process_path": "C:\\WINDOWS\\Explorer.EXE"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36576,
+        "state": 100,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36576,
+        "state": 5,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36577,
+        "state": 5,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36577,
+        "state": 100,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36578,
+        "state": 100,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36578,
+        "state": 5,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36579,
+        "state": 3,
+        "pid": 3108,
+        "process_name": "dcondemand",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36579,
+        "state": 100,
+        "pid": 3108,
+        "process_name": "dcondemand",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36580,
+        "state": 100,
+        "pid": 5308,
+        "process_name": "elastic-endpoint",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36580,
+        "state": 3,
+        "pid": 5308,
+        "process_name": "elastic-endpoint",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36581,
+        "state": 100,
+        "pid": 16548,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36581,
+        "state": 3,
+        "pid": 16548,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36584,
+        "state": 3,
+        "pid": 5308,
+        "process_name": "elastic-endpoint",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36584,
+        "state": 100,
+        "pid": 5308,
+        "process_name": "elastic-endpoint",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 36585,
+        "state": 100,
+        "pid": 10656,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 36585,
+        "state": 3,
+        "pid": 10656,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 39352,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 39352,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "::1",
+        "local_port": 42050,
+        "state": 2,
+        "pid": 19940,
+        "process_name": "OneDrive.Sync.Service",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\26.051.0316.0004\\OneDrive.Sync.Service.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 42987,
+        "state": 5,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 42987,
+        "state": 100,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43298,
+        "state": 100,
+        "pid": 21648,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43298,
+        "state": 5,
+        "pid": 21648,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43318,
+        "state": 5,
+        "pid": 10336,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43318,
+        "state": 100,
+        "pid": 10336,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43320,
+        "state": 5,
+        "pid": 17420,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43320,
+        "state": 100,
+        "pid": 17420,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43322,
+        "state": 5,
+        "pid": 21356,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43322,
+        "state": 100,
+        "pid": 21356,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43324,
+        "state": 5,
+        "pid": 10136,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43324,
+        "state": 100,
+        "pid": 10136,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43327,
+        "state": 100,
+        "pid": 16548,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43327,
+        "state": 5,
+        "pid": 16548,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43328,
+        "state": 5,
+        "pid": 10656,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43328,
+        "state": 100,
+        "pid": 10656,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43330,
+        "state": 5,
+        "pid": 13936,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43330,
+        "state": 100,
+        "pid": 13936,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43332,
+        "state": 100,
+        "pid": 14720,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43332,
+        "state": 5,
+        "pid": 14720,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43380,
+        "state": 5,
+        "pid": 10436,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43380,
+        "state": 100,
+        "pid": 10436,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 43442,
+        "state": 100,
+        "pid": 18312,
+        "process_name": "AQAUserPS",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 43442,
+        "state": 5,
+        "pid": 18312,
+        "process_name": "AQAUserPS",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 46753,
+        "state": 2,
+        "pid": 9648,
+        "process_name": "AcerSysMonitorService",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 46760,
+        "state": 2,
+        "pid": 9648,
+        "process_name": "AcerSysMonitorService",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 47939,
+        "state": 5,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 47939,
+        "state": 100,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 49425,
+        "state": 5,
+        "pid": 6380,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49425,
+        "state": 100,
+        "pid": 6380,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 49664,
+        "state": 2,
+        "pid": 1248,
+        "process_name": "lsass",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49664,
+        "state": 2,
+        "pid": 1248,
+        "process_name": "lsass",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 49665,
+        "state": 2,
+        "pid": 1076,
+        "process_name": "wininit",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49665,
+        "state": 2,
+        "pid": 1076,
+        "process_name": "wininit",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 49668,
+        "state": 2,
+        "pid": 1072,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49668,
+        "state": 2,
+        "pid": 1072,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49669,
+        "state": 2,
+        "pid": 3188,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 49669,
+        "state": 2,
+        "pid": 3188,
+        "process_name": "svchost",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 49670,
+        "state": 2,
+        "pid": 4480,
+        "process_name": "spoolsv",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49670,
+        "state": 2,
+        "pid": 4480,
+        "process_name": "spoolsv",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49673,
+        "state": 5,
+        "pid": 5116,
+        "process_name": "ADESv2Svc",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49674,
+        "state": 100,
+        "pid": 5116,
+        "process_name": "ADESv2Svc",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49674,
+        "state": 5,
+        "pid": 5116,
+        "process_name": "ADESv2Svc",
+        "process_path": null
+      },
+      {
+        "local_address": "::1",
+        "local_port": 49675,
+        "state": 2,
+        "pid": 5656,
+        "process_name": "jhi_service",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49680,
+        "state": 5,
+        "pid": 1496,
+        "process_name": "WUDFHost",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49681,
+        "state": 5,
+        "pid": 1496,
+        "process_name": "WUDFHost",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49681,
+        "state": 100,
+        "pid": 1496,
+        "process_name": "WUDFHost",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49684,
+        "state": 5,
+        "pid": 1680,
+        "process_name": "WUDFHost",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49685,
+        "state": 5,
+        "pid": 1680,
+        "process_name": "WUDFHost",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49685,
+        "state": 100,
+        "pid": 1680,
+        "process_name": "WUDFHost",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49713,
+        "state": 5,
+        "pid": 9648,
+        "process_name": "AcerSysMonitorService",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49714,
+        "state": 5,
+        "pid": 9648,
+        "process_name": "AcerSysMonitorService",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49714,
+        "state": 100,
+        "pid": 9648,
+        "process_name": "AcerSysMonitorService",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 49759,
+        "state": 100,
+        "pid": 5308,
+        "process_name": "elastic-endpoint",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49759,
+        "state": 5,
+        "pid": 5308,
+        "process_name": "elastic-endpoint",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49831,
+        "state": 5,
+        "pid": 5260,
+        "process_name": "ipfsvc",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49832,
+        "state": 100,
+        "pid": 5260,
+        "process_name": "ipfsvc",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49832,
+        "state": 5,
+        "pid": 5260,
+        "process_name": "ipfsvc",
+        "process_path": null
+      },
+      {
+        "local_address": "::",
+        "local_port": 49847,
+        "state": 2,
+        "pid": 1192,
+        "process_name": "services",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49847,
+        "state": 2,
+        "pid": 1192,
+        "process_name": "services",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49942,
+        "state": 100,
+        "pid": 17892,
+        "process_name": "AcerGAICameraW",
+        "process_path": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\acergaicameracomponent.inf_amd64_96e61d1a348ad182\\AcerGAICameraW.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 49942,
+        "state": 5,
+        "pid": 17892,
+        "process_name": "AcerGAICameraW",
+        "process_path": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\acergaicameracomponent.inf_amd64_96e61d1a348ad182\\AcerGAICameraW.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 51779,
+        "state": 2,
+        "pid": 5116,
+        "process_name": "ADESv2Svc",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 51780,
+        "state": 2,
+        "pid": 5116,
+        "process_name": "ADESv2Svc",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 51781,
+        "state": 2,
+        "pid": 5116,
+        "process_name": "ADESv2Svc",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 51782,
+        "state": 2,
+        "pid": 5116,
+        "process_name": "ADESv2Svc",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 52400,
+        "state": 100,
+        "pid": 15544,
+        "process_name": "msedgewebview2",
+        "process_path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\147.0.3912.72\\msedgewebview2.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 53414,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 53414,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 53417,
+        "state": 5,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 53417,
+        "state": 100,
+        "pid": 21180,
+        "process_name": "OneDrive",
+        "process_path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 53419,
+        "state": 100,
+        "pid": 21356,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 53419,
+        "state": 3,
+        "pid": 21356,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 53420,
+        "state": 3,
+        "pid": 13936,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 53420,
+        "state": 100,
+        "pid": 13936,
+        "process_name": "agentbeat",
+        "process_path": null
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 53594,
+        "state": 100,
+        "pid": 25016,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 53594,
+        "state": 5,
+        "pid": 25016,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "::",
+        "local_port": 58995,
+        "state": 2,
+        "pid": 5040,
+        "process_name": "AcerPixyService",
+        "process_path": null
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 58995,
+        "state": 5,
+        "pid": 5040,
+        "process_name": "AcerPixyService",
+        "process_path": null
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 62171,
+        "state": 5,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 62171,
+        "state": 100,
+        "pid": 4892,
+        "process_name": "Code",
+        "process_path": "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 64345,
+        "state": 5,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 64345,
+        "state": 100,
+        "pid": 18448,
+        "process_name": "chrome",
+        "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+      }
+    ],
+    "udp": [
+      {
+        "local_address": "::",
+        "local_port": 123,
+        "pid": 10276,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 123,
+        "pid": 10276,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.91.1",
+        "local_port": 137,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.56.1",
+        "local_port": 137,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.253.1",
+        "local_port": 137,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 137,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.91.1",
+        "local_port": 138,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.253.1",
+        "local_port": 138,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 138,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.56.1",
+        "local_port": 138,
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "::",
+        "local_port": 500,
+        "pid": 5560,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 500,
+        "pid": 5560,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.56.1",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.91.1",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.253.1",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "fe80::1343:464a:c47b:20f2%9",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "fe80::5a98:4817:2a2c:9081%12",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "fe80::8e54:8579:f7a3:1119%14",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "::1",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "fe80::e8e1:3ace:df96:a1%22",
+        "local_port": 1900,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "::",
+        "local_port": 4500,
+        "pid": 5560,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 4500,
+        "pid": 5560,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 5050,
+        "pid": 12324,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.253.1",
+        "local_port": 5353,
+        "pid": 5088,
+        "process_name": "mDNSResponder"
+      },
+      {
+        "local_address": "192.168.91.1",
+        "local_port": 5353,
+        "pid": 5088,
+        "process_name": "mDNSResponder"
+      },
+      {
+        "local_address": "192.168.56.1",
+        "local_port": 5353,
+        "pid": 5088,
+        "process_name": "mDNSResponder"
+      },
+      {
+        "local_address": "::1",
+        "local_port": 5353,
+        "pid": 5088,
+        "process_name": "mDNSResponder"
+      },
+      {
+        "local_address": "::",
+        "local_port": 5353,
+        "pid": 18448,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 5353,
+        "pid": 18276,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 5353,
+        "pid": 5088,
+        "process_name": "mDNSResponder"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 5355,
+        "pid": 1964,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "::",
+        "local_port": 5355,
+        "pid": 1964,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 55209,
+        "pid": 18448,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 55736,
+        "pid": 18448,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "fe80::8e54:8579:f7a3:1119%14",
+        "local_port": 56867,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "fe80::e8e1:3ace:df96:a1%22",
+        "local_port": 56868,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "fe80::5a98:4817:2a2c:9081%12",
+        "local_port": 56869,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "fe80::1343:464a:c47b:20f2%9",
+        "local_port": 56870,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "::1",
+        "local_port": 56871,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.56.1",
+        "local_port": 56872,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.91.1",
+        "local_port": 56873,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.253.1",
+        "local_port": 56874,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "192.168.1.6",
+        "local_port": 56875,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 56876,
+        "pid": 21632,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 60285,
+        "pid": 5088,
+        "process_name": "mDNSResponder"
+      },
+      {
+        "local_address": "::",
+        "local_port": 60286,
+        "pid": 5088,
+        "process_name": "mDNSResponder"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 60287,
+        "pid": 5592,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 63882,
+        "pid": 18448,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "::",
+        "local_port": 64846,
+        "pid": 1964,
+        "process_name": "svchost"
+      }
+    ]
+  }
+}
